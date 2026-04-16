@@ -1,3 +1,9 @@
+import { Button } from "@/primitives/button";
+
 export default function IndexPage() {
-  return <>Coming Soon</>;
+  return (
+    <>
+      <p>Coming Soon</p>
+    </>
+  );
 }
